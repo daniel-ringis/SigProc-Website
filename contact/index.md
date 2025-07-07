@@ -19,6 +19,7 @@ We do not have a contact for the collective group, however emailling Daniel is b
   include button.html
   type="phone"
   text="(868) 662-2002 ext 8XXXX"
+  link="(868) 662-2002"
 %}
 {%
   include button.html
