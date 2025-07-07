@@ -17,15 +17,15 @@ We are Electrical and Computer Engineering Researchers, from the University of t
 
 # PhD Researchers
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'","description != 'template'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and description != 'template'" %}
 
 # Masters Students
 
-{% include list.html data="members" component="portrait" filter="role == 'postgrad'","description != 'template'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgrad' and description != 'template'" %}
 
 # Undergraduate Students
 
-{% include list.html data="members" component="list" filter="role == 'undergrad'","description != 'template'"%}
+{% include list.html data="members" component="list" filter="role == 'undergrad' and description != 'template'"%}
 
 # Alumni
 
