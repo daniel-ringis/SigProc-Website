@@ -25,15 +25,15 @@ We are Electrical and Computer Engineering Researchers, from the University of t
 
 # Undergraduate Students
 
-{% include list.html data="members" component="list" filter="role == 'undergrad' and description != 'template'"%}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and description != 'template' and description != 'alumni'"%}
 
 # Alumni
 
-{% include list.html data="members" component="list" filter="description == 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="description == 'alumni'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-The best way to contact us is by email. We do not have an email for the collective, so it's best to reach out to Daniel if you arent sure who to reach out to.
+We have many more alumni over the years, we will continue to add!
 
 
