@@ -211,63 +211,38 @@
   orcid: 0000-0002-4887-4749
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1109/ACCESS.2021.3122386
+  title: Similarity Analysis of Modern Genre Music Based on Billboard Hits
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.3389/frsip.2023.1205104
-  title: The disparity between optimal and practical Lagrangian multiplier estimation
-    in video encoders
+  - Akash Pooransingh
+  - Dylan Dhoray
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g9sjw6
+  orcid: 0000-0002-4442-3625
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-34770-3_19
+  title: Intrusion Detection and Avoidance for a Heterogeneous Cluster of Web Sites
   authors:
-  - Daniel Joseph Ringis
-  - "Fran\xE7ois Piti\xE9"
-  - Anil Kokaram
-  publisher: Frontiers in Signal Processing
-  date: '2023-01-01'
-  link: https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2023.1205104
-  image: https://www.frontiersin.org/files/Articles/1205104/frsip-03-1205104-HTML-r1/image_m/frsip-03-1205104-g001.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Darren Ramsook
+  - Patrick Hosein
+  - Akash Pooransingh
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/g9sjw7
+  orcid: 0000-0002-4442-3625
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RSP.2014.6966894
+  title: Exploration and assessment of memory architectures for densely-deployed embedded
+    sensor networks
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Azim Abdool
+  - Cathy-Ann Radix
+  - Sean Rocke
+  publisher: 2014 25nd IEEE International Symposium on Rapid System Prototyping
+  date: '2014-10-01'
+  link: https://doi.org/g9sjxc
   plugin: sources.py
   file: sources.yaml
