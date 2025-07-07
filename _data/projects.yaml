@@ -1,4 +1,4 @@
-- title: Cool Dataset
+- title: Speech Processing 
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
@@ -8,7 +8,7 @@
   tags:
     - resource
 
-- title: Cool Package
+- title: Sports Engineering
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
@@ -18,7 +18,7 @@
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Biomedical Applications 
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
@@ -28,7 +28,7 @@
     - resource
     - publication
 
-- title: Cool Web App
+- title: Cultural Heritage
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
@@ -37,7 +37,7 @@
   tags:
     - software
 
-- title: Cool Web Server
+- title: Affective Computing
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
