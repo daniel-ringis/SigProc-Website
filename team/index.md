@@ -14,7 +14,8 @@ We are Electrical and Computer Engineering Researchers, from the University of t
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 {% include section.html %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+{% include list.html data="members" component="portrait" filter="role = 'phd'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
