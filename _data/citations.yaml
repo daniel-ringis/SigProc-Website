@@ -234,6 +234,95 @@
   orcid: 0000-0002-4442-3625
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/EDUCON62633.2025.11016366
+  title: 'Uses of Generative AI in Engineering, Technology, and Computing Classrooms:
+    Findings From the IEEE FIE Conference Proceedings'
+  authors:
+  - Crista Mohammed
+  - Wayne Sarjusingh
+  - Sean Rocke
+  publisher: 2025 IEEE Global Engineering Education Conference (EDUCON)
+  date: '2025-04-22'
+  link: https://doi.org/g9sj2g
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEEEDATA.2024.3462914
+  title: 'Descriptor: Deep Learning-Based Monitoring and Analysis in Real Process
+    Control Networks (DLMARPCN)'
+  authors:
+  - Eddison Jaggernauth
+  - Sean Rocke
+  - Rajendra Narine
+  publisher: IEEE Data Descriptions
+  date: '2024-01-01'
+  link: https://doi.org/g9sj2h
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JMW.2024.3369599
+  title: Impact of 3D Printing Infill Patterns on the Effective Permittivity of 3D
+    Printed Substrates
+  authors:
+  - Jeevan Persad
+  - Sean Rocke
+  publisher: IEEE Journal of Microwaves
+  date: '2024-04-01'
+  link: https://doi.org/g9sj2j
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3157833
+  title: A Survey of 3D Printing Technologies as Applied to Printed Electronics
+  authors:
+  - Jeevan Persad
+  - Sean Rocke
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g9sj2k
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPWRS.2019.2917613
+  title: Decentralized Fuzzy $H_\infty$-Iterative Learning LFC With Time-Varying Communication
+    Delays and Parametric Uncertainties
+  authors:
+  - Craig J. Ramlal
+  - Arvind Singh
+  - Sean Rocke
+  - Michael Sutherland
+  publisher: IEEE Transactions on Power Systems
+  date: '2019-11-01'
+  link: https://doi.org/g9sj2m
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TE.2019.2918097
+  title: Improving Student Engagement in Teaching Electric Machines Through Blended
+    Learning
+  authors:
+  - Arvind Singh
+  - Sean Rocke
+  - Akash Pooransingh
+  - Craig J. Ramlal
+  publisher: IEEE Transactions on Education
+  date: '2019-11-01'
+  link: https://doi.org/g9sj2n
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11277-017-4304-2
+  title: Random Spectral Sampling for Compliance Enforcement in Dynamic Spectrum Access
+    Networks
+  authors:
+  - Sean Rocke
+  - Alexander Wyglinski
+  publisher: Wireless Personal Communications
+  date: '2017-05-20'
+  link: https://doi.org/g9sj2p
+  orcid: 0000-0003-0066-9508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/RSP.2014.6966894
   title: Exploration and assessment of memory architectures for densely-deployed embedded
     sensor networks
