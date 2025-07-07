@@ -1,9 +1,9 @@
 ---
 ---
 
-# daniel-ringis's Website
+# UWI Signals
 
-An engaging 1-3 sentence description of your lab.
+The Signal Processing Applications Research Group at the Department of Electrical and Computer Engineering at the University of the West Indies, St Augustine. Group Esablished in 20XX depending on who you ask. 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A full list of our publications is here!
 
 {%
   include button.html
@@ -34,8 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our larger projects are here. 
 {%
   include button.html
   link="projects"
@@ -59,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See all of our researchers, students and alumni!
 
 {%
   include button.html

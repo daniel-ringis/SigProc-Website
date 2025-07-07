@@ -15,19 +15,19 @@ We are Electrical and Computer Engineering Researchers, from the University of t
 
 {% include section.html %}
 
-PhD Researchers
+# PhD Researchers
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'" and "description != 'template'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'","description != 'template'" %}
 
-Masters Students
+# Masters Students
 
-{% include list.html data="members" component="portrait" filter="role == 'postgrad'"  and "description != 'template'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgrad'","description != 'template'" %}
 
-Undergraduate Students
+# Undergraduate Students
 
-{% include list.html data="members" component="list" filter="role == 'undergrad'"  and "description != 'template'"%}
+{% include list.html data="members" component="list" filter="role == 'undergrad'","description != 'template'"%}
 
-Alumni
+# Alumni
 
 {% include list.html data="members" component="list" filter="description == 'alumni'" %}
 
