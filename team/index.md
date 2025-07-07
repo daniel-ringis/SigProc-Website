@@ -15,9 +15,21 @@ We are Electrical and Computer Engineering Researchers, from the University of t
 
 {% include section.html %}
 
+PhD Researchers
+
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
+Masters Students
+
 {% include list.html data="members" component="portrait" filter="role == 'postgrad'" %}
+
+Undergraduate Students
+
+{% include list.html data="members" component="list" filter="role == 'undergrad'" %}
+
+Alumni
+
+{% include list.html data="members" component="list" filter="description == 'alumni'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}

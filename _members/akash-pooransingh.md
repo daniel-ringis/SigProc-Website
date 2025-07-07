@@ -11,4 +11,4 @@ links:
 
 ---
 
-DJ is populating this site and will be dealing with his own bio later. 
+Akash tends to not write bios, so there will not be one.
