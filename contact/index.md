@@ -30,15 +30,15 @@ We do not have a contact for the collective group, however emailling Daniel is b
 
 {% include section.html %}
 
-# {% capture col1 %}
+{% capture col1 %}
 
-# {%
-#   include figure.html
-#   image="images/photo.jpg"
-#   caption="Lorem ipsum"
-# %}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
 
-# {% endcapture %}
+{% endcapture %}
 
 {% capture col2 %}
 
